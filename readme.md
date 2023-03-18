@@ -1,2 +1,1 @@
-# springboot quickstart 
-[![CircleCI](https://circleci.com/github/kevgilmore/spring-quickstart.svg?style=svg&circle-token=440d1a2ae477d618ebcc39dc67b548d87bae3d8c)](<LINK>)
+# springboot quickstart [![CircleCI](https://dl.circleci.com/status-badge/img/gh/kevgilmore/spring-quickstart/tree/main.svg?style=svg&circle-token=67c9b723559719680960bb089796ec712a56d615)](https://dl.circleci.com/status-badge/redirect/gh/kevgilmore/spring-quickstart/tree/main)
