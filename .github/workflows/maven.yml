@@ -32,6 +32,7 @@ jobs:
       uses: mr-smithers-excellent/docker-build-push@v4
       with:
         image: kgilmore/homelab
+        tags: spring-quickstart, latest
         registry: docker.io
         username: ${{ secrets.DOCKER_USERNAME }}
         password: ${{ secrets.DOCKER_PASSWORD }}
